@@ -428,3 +428,9 @@ svg:not(:root).svg-inline--fa {
     position: static;
     width: auto
 }
+.has-text-star {
+    color: #ffd257;
+}
+.has-text-patreon {
+    color: #f26522;
+}
